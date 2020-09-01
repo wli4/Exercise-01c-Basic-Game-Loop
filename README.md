@@ -3,7 +3,7 @@ Exercise for MSCH-C220, 1 September 2020
 
 This exercise is an opportunity for you to create a (simple) interactive-fiction game engine in Python. Ultimately, your responsibility will be to complete the update, render, and get_input functions in main.py; I plan to take significant time in class to walk through that process step-by-step.
 
-As usualy, the first step is to Fork the repository. When that process has completed, make sure that the top of the repository reads [your username]/Exercise-01c-Basic-Game-Loop.
+As usual, the first step is to Fork the repository. When that process has completed, make sure that the top of the repository reads [your username]/Exercise-01c-Basic-Game-Loop.
 
 Edit the LICENSE and replace BL-MSCH-C220-F20 with your full name. Commit your changes.
 
